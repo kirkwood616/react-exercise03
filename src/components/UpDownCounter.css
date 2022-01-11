@@ -1,8 +1,4 @@
 #UpDownCounter {
-	display: flex;
-}
-
-#counterContainer {
 	border: 2px solid black;
 	border-radius: 5px;
 	text-align: center;
